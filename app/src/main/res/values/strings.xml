@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaoozOS</string>
+    <string name="notification_channel_name">MaoozOS Reminders</string>
+    <string name="notification_channel_description">Class and academic reminders from MaoozOS.</string>
+</resources>
